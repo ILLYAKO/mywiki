@@ -1,1 +1,1 @@
-Usefull info about git.
+Helpful info about git.
