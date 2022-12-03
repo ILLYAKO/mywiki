@@ -17,5 +17,7 @@ Creating the personal access token
 The created token will be used instead of the password for the execution of the git command in the command line.
 
 $ git clone https://github.com/USERNAME/REPO.git
+
 Username: YOUR_USERNAME
+
 Password: YOUR_TOKEN
